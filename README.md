@@ -12,19 +12,19 @@
 <h1 align="center"></h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/agostinhomarcia/react-shopping-cart?color=fa4776">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/agostinhomarcia/movies-dev?color=fa4776">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/agostinhomarcia/react-shopping-cart?color=fa4776">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/agostinhomarcia/movies-dev?color=fa4776">
 
  
 
-  <img alt="License" src="https://img.shields.io/github/license/agostinhomarcia/react-shopping-cart?color=fa4776">
+  <img alt="License" src="https://img.shields.io/github/license/agostinhomarcia/movies-dev?color=fa4776">
 
-   <img alt="Github issues" src="https://img.shields.io/github/issues/agostinhomarcia/react-shopping-cart?color=fa4776" /> 
+   <img alt="Github issues" src="https://img.shields.io/github/issues/agostinhomarcia/movies-dev?color=fa4776" /> 
 
-   <img alt="Github forks" src="https://img.shields.io/github/forks/agostinhomarcia/react-shopping-cart?color=fa4776" /> 
+   <img alt="Github forks" src="https://img.shields.io/github/forks/agostinhomarcia/movies-dev?color=fa4776" /> 
 
-   <img alt="Github stars" src="https://img.shields.io/github/stars/agostinhomarcia/react-shopping-cart?color=fa4776" /> 
+   <img alt="Github stars" src="https://img.shields.io/github/stars/agostinhomarcia/movies-dev?color=fa4776" /> 
 </p>
 
 
@@ -76,14 +76,14 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) an
 
 ```bash
 # Clone this project
-$ git clone https://github.com/agostinhomarcia/react-shopping-cart.git
+$ git clone https://github.com/agostinhomarcia/movies-dev.git
 # Access
-$ cd react-shopping-cart
+$ cd movies-dev
 # Install dependencies
 $ yarn or npm 
 # Run the project
 $ yarn start or npm start 
-# The server will initialize in the <http://localhost:3000>
+# The server will initialize in the <http://localhost:5173/>
 ```
 
 
