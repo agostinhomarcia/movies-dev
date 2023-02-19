@@ -44,11 +44,18 @@
 ## :dart: About ##
 
 
-<h4 align="center"> Movies</h4>
+<h4 align="center"> Em desenvolvimento </h4>
 
 <p align="center">
    <img src="src/assets/movies.png" alt="cart" width="690"/>
 </p>
+
+<h4 align="center"> Movies </h4>
+
+<p align="center">
+   <img src="src/assets/projeto-final.png" alt="cart" width="690"/>
+</p>
+
 
 
 ## :sparkles: Features ##
