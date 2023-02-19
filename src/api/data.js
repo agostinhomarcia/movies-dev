@@ -216,5 +216,6 @@ export const apiData = {
   categories: [
     { name: "Movies", type: "movies" },
     { name: "TV Shows", type: "tvShows" },
+
   ],
 };

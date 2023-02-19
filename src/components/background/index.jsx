@@ -1,13 +1,9 @@
+import { BackgroundImage, BackgroundGradient } from "./style";
 
-import { BackgroundImage, BackgroundGradient } from './style'
-import backgroundImage from '../../assets/fundo.svg'
-
-function Background({children}) {
+export const Background = ({ children, imageBanner }) => {
   return (
-    <BackgroundImage bgImage={backgroundImage}>
-        <BackgroundGradient>{children}</BackgroundGradient>
+    <BackgroundImage bgImage={imageBanner}>
+      <BackgroundGradient>{children}</BackgroundGradient>
     </BackgroundImage>
-  )
-}
-
-export default Background
+  );
+};

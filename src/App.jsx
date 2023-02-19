@@ -1,8 +1,8 @@
 import { useState } from "react";
-import  Background  from "./components/background";
+import {Background}  from "./components/background";
 import { DescriptionMovie } from "./components/description-movie";
 import { Header } from "./components/header";
-import  Movies  from "./components/movies";
+import {Movies } from "./components/movies";
 import { Video } from "./components/video";
 
 import { apiData } from "./api/data";
