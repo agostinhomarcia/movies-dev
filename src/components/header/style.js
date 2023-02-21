@@ -6,14 +6,16 @@ export const Container = styled.header`
   align-items: center;
   justify-content: space-between;
   padding: 20px 60px;
-
+  
+  @media (max-width: 560px) {
+    padding: 20px;
+  }
   nav {
     display: flex;
     align-items: center;
     gap: 16px;
   }
   a {
-    
     font-size: 20px;
     line-height: 25px;
     letter-spacing: 0.03em;
@@ -22,21 +24,30 @@ export const Container = styled.header`
     text-decoration: none;
     position: relative;
 
+    @media (max-width: 560px) {
+      font-size: 16px;
+    }
   }
-  a:hover{
+  a:hover {
     opacity: 0.7;
   }
-  a::after{
-    content:'';
+  a::after {
+    content: "";
     width: 0;
-    height:2px;
-    background-color:#ffff;
-    position:absolute;
+    height: 2px;
+    background-color: #ffffff;
+    position: absolute;
     bottom: 2px;
     left: 0;
     transition: 0.3s;
   }
-  a:hover::after{
+  a:hover::after {
     width: 100%;
+  }
+
+  img {
+    @media (max-width: 560px) {
+      width: 80px;
+    }
   }
 `;
